@@ -4,6 +4,14 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+## screenshots
+![Screenshot constans_app_contacts_list](https://github.com/rohanbhatia56/ContactsAppReactNative/blob/main/screenshots/constans_app_contacts_list.jpeg)
+![Screenshot contacts_app_add_screen](https://github.com/rohanbhatia56/ContactsAppReactNative/blob/main/screenshots/contacts_app_add_screen.jpeg)
+![Screenshot contacts_app_edit_delect_swip_menu](https://github.com/rohanbhatia56/ContactsAppReactNative/blob/main/screenshots/contacts_app_edit_delect_swip_menu.jpeg)
+![Screenshot contacts_app_favorite](https://github.com/rohanbhatia56/ContactsAppReactNative/blob/main/screenshots/contacts_app_favorite.jpeg)
+![Screenshot contacts_app_list_search](https://github.com/rohanbhatia56/ContactsAppReactNative/blob/main/screenshots/contacts_app_list_search.jpeg)
+![Screenshot contacts_app_update](https://github.com/rohanbhatia56/ContactsAppReactNative/blob/main/screenshots/contacts_app_update.jpeg)
+
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
